@@ -1,6 +1,6 @@
 {
   "name": "@persistr/clif-plugin-fetch",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "fetch plugin for @persistr/clif",
   "main": "index.js",
   "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
